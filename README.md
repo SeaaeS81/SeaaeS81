@@ -4,7 +4,7 @@ Ich bin Automatisierungstechniker und absolviere derzeit einen **Grundkurs in SP
 Hier sind meine praktischen Projekte, die ich während des Kurses erstellt und in PLCSIM getestet habe:
 
 * 🚀 [Projekt 1: Motorsteuerung mit Selbsthaltung](https://github.com/SeaaeS81/SPS-Motorsteuerung-Selbsthaltung)
-* ⏳ *Projekt 2: Sortieranlage (in Arbeit)*
+* 🚀 [Projekt 2: Sortieranlage (Metall/Kunststoff)](https://github.com/SeaaeS81/SPS-Sortieranlage-Metall-Kunststoff)
 * ⏳ *Projekt 3: IEC-Zähler (in Arbeit)*
 
 **Technologien:** TIA Portal V19, S7-1500, LAD, S7-PLCSIM, Git/GitHub.
